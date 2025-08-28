@@ -1,6 +1,6 @@
-# MIMIC-IV BigQuery Analysis
+# MIMIC-IV MELD
 
-This project provides R scripts to extract, clean, and analyze **MIMIC-IV** data from Google BigQuery. It focuses on admissions with cirrhosis, MELD-related labs, liver transplants, and dialysis procedures, preparing datasets for survival and calibration analysis.
+This project provides R scripts used for the paper.
 
 ---
 
